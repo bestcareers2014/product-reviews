@@ -31,13 +31,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://bestcareers2014.github.io/product-reviews/tags/lgbt.html</loc>
+    <loc>https://bestcareers2014.github.io/product-reviews/tags/christian.html</loc>
     <lastmod>2026-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://bestcareers2014.github.io/product-reviews/tags/christian.html</loc>
+    <loc>https://bestcareers2014.github.io/product-reviews/tags/lgbt.html</loc>
     <lastmod>2026-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -56,6 +56,18 @@
   </url>
   <url>
     <loc>https://bestcareers2014.github.io/product-reviews/tags/elevate-holiday-spirit.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bestcareers2014.github.io/product-reviews/tags/elevate-space-hippie.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bestcareers2014.github.io/product-reviews/tags/transform-outdoor-space.html</loc>
     <lastmod>2026-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -151,12 +163,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://bestcareers2014.github.io/product-reviews/tags/elevate-space-hippie.html</loc>
-    <lastmod>2026-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://bestcareers2014.github.io/product-reviews/tags/elevate-spring-decor.html</loc>
     <lastmod>2026-03-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -206,6 +212,12 @@
   </url>
   <url>
     <loc>https://bestcareers2014.github.io/product-reviews/tags/empower-space-hippie.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bestcareers2014.github.io/product-reviews/tags/enhance-garden-faith.html</loc>
     <lastmod>2026-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -284,12 +296,6 @@
   </url>
   <url>
     <loc>https://bestcareers2014.github.io/product-reviews/tags/transform-holidays-farmhouse.html</loc>
-    <lastmod>2026-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://bestcareers2014.github.io/product-reviews/tags/transform-outdoor-space.html</loc>
     <lastmod>2026-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -427,6 +433,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://bestcareers2014.github.io/product-reviews/posts/elevate-your-space-with-a-hippie-garden-flag-outdoor-catholic-yard-banner-guide.html</loc>
+    <lastmod>2026-03-16T18:15:12.019Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://bestcareers2014.github.io/product-reviews/posts/elevate-your-spring-decor-with-a-floral-peace-sign-garden-flag.html</loc>
     <lastmod>2026-03-15T15:08:32.646Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -465,6 +477,12 @@
   <url>
     <loc>https://bestcareers2014.github.io/product-reviews/posts/empower-your-space-with-a-hippie-garden-flag-and-feminist-pro-choice-banner.html</loc>
     <lastmod>2026-03-16T17:11:29.140Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bestcareers2014.github.io/product-reviews/posts/enhance-your-garden-with-a-faith-garden-flag-christian-floral-decor-ideas.html</loc>
+    <lastmod>2026-03-16T18:16:32.627Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -537,6 +555,12 @@
   <url>
     <loc>https://bestcareers2014.github.io/product-reviews/posts/transform-your-holidays-with-a-farmhouse-christmas-garden-flag-and-red-barn-deco.html</loc>
     <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bestcareers2014.github.io/product-reviews/posts/transform-your-outdoor-space-with-a-christian-garden-flag-floral-decor-ideas.html</loc>
+    <lastmod>2026-03-16T18:15:49.598Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
