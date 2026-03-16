@@ -31,13 +31,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://bestcareers2014.github.io/product-reviews/tags/christian.html</loc>
+    <loc>https://bestcareers2014.github.io/product-reviews/tags/lgbt.html</loc>
     <lastmod>2026-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://bestcareers2014.github.io/product-reviews/tags/lgbt.html</loc>
+    <loc>https://bestcareers2014.github.io/product-reviews/tags/christian.html</loc>
     <lastmod>2026-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -80,6 +80,18 @@
   </url>
   <url>
     <loc>https://bestcareers2014.github.io/product-reviews/tags/celebrate-diversity-love.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bestcareers2014.github.io/product-reviews/tags/celebrate-diversity-rainbow.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bestcareers2014.github.io/product-reviews/tags/celebrate-love-wins.html</loc>
     <lastmod>2026-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -369,6 +381,18 @@
   <url>
     <loc>https://bestcareers2014.github.io/product-reviews/posts/celebrate-diversity-with-a-love-is-love-garden-flag-for-your-yard.html</loc>
     <lastmod>2026-03-16T19:05:07.448Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bestcareers2014.github.io/product-reviews/posts/celebrate-diversity-with-rainbow-love-hearts-garden-flag-for-lgbtq-pride.html</loc>
+    <lastmod>2026-03-16T19:39:23.073Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bestcareers2014.github.io/product-reviews/posts/celebrate-love-wins-with-our-vibrant-rainbow-pride-garden-flag.html</loc>
+    <lastmod>2026-03-16T19:40:01.651Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
