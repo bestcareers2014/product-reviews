@@ -585,12 +585,28 @@ article.post h1 {
     margin: 0 auto;
     padding: 0 24px 20px;
     overflow-x: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+    scrollbar-color: var(--border) transparent;
+}
+.tag-nav-wrap::-webkit-scrollbar {
+    height: 4px;
+}
+.tag-nav-wrap::-webkit-scrollbar-track {
+    background: transparent;
+}
+.tag-nav-wrap::-webkit-scrollbar-thumb {
+    background: var(--border);
+    border-radius: 4px;
 }
 .tag-nav {
     display: flex;
     gap: 8px;
-    flex-wrap: wrap;
-    justify-content: center;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    padding-bottom: 4px;
+    min-width: max-content;
 }
 .tag-nav-item {
     padding: 6px 14px;
@@ -603,6 +619,7 @@ article.post h1 {
     font-weight: 500;
     white-space: nowrap;
     transition: all .2s;
+    flex-shrink: 0;
 }
 .tag-nav-item:hover {
     border-color: var(--primary-light);
